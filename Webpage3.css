@@ -1,0 +1,22 @@
+html {
+    background-color: dodgerblue;
+    border: 5px dashed deepskyblue thick;
+    width: fit-content;
+    margin: 20px;
+}
+
+p {
+    font-size: 111%;
+    font-family: cursive;
+    color: darkgoldenrod;
+    background: #4169e1;
+    text-align: justify;
+    margin-right: 10%;
+    margin-left: 10%;
+    float: right;
+}
+
+img {
+    position: middle;
+    border: 3px deepskyblue;
+}

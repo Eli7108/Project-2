@@ -1,0 +1,25 @@
+html {
+   background-color: dodgerblue;
+   margin: 20px;
+}
+
+h1 {
+   font-size: 500%;
+   font-family: cursive;
+   color: goldenrod;
+   background-color: #4169e1;
+   position: relative;
+}
+
+img {
+   border: dashed darkgoldenrod 8px;
+   width: 1000px;
+   height: 600px;
+}
+
+p {
+   color: goldenrod;
+   background-color: #4169e1;
+}
+
+
